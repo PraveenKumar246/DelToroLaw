@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DelToroLaw/static/css/main.23f20761.css",
+    "main.css": "/DelToroLaw/static/css/main.56a1a7ef.css",
     "main.js": "/DelToroLaw/static/js/main.c871895b.js",
     "static/js/787.c9d9140f.chunk.js": "/DelToroLaw/static/js/787.c9d9140f.chunk.js",
     "static/media/1.jpg": "/DelToroLaw/static/media/1.5b7695b09b46b4f1252c.jpg",
@@ -25,12 +25,12 @@
     "static/media/facebook.svg": "/DelToroLaw/static/media/facebook.fc12a282df25f2eee1f617169cfb2463.svg",
     "index.html": "/DelToroLaw/index.html",
     "static/media/linkedin.svg": "/DelToroLaw/static/media/linkedin.879df74f790acb4330ef80a26d4e175d.svg",
-    "main.23f20761.css.map": "/DelToroLaw/static/css/main.23f20761.css.map",
+    "main.56a1a7ef.css.map": "/DelToroLaw/static/css/main.56a1a7ef.css.map",
     "main.c871895b.js.map": "/DelToroLaw/static/js/main.c871895b.js.map",
     "787.c9d9140f.chunk.js.map": "/DelToroLaw/static/js/787.c9d9140f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23f20761.css",
+    "static/css/main.56a1a7ef.css",
     "static/js/main.c871895b.js"
   ]
 }
