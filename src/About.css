@@ -1,0 +1,100 @@
+.section11{
+  color:rgba(196, 58, 58, 0.781);  
+  text-decoration: none; 
+  margin-left: 2px;
+  font-family: Arial narrow;    
+}
+.section10{
+    color: grey;
+  text-decoration: none;
+  margin-left: 2px;
+  font-family: Arial narrow;      
+}
+.main1{
+    display: flex;
+}
+.content{
+    margin-left: 240px;
+    
+}
+.del{
+    margin-top: -378px;
+    color: grey;
+}
+.about{
+    font-family: Arial narrow;
+    margin-top: -10px;
+}
+.want{
+    margin-top: -20px;
+    color: rgba(245, 240, 240, 0.815);
+    font-family: Arial narrow;
+}
+.voice{
+    margin-top: -8px;
+    color: rgba(245, 240, 240, 0.815);
+    font-family: Arial narrow;
+}
+.phone{
+    margin-top: -8px;
+    color: rgba(245, 240, 240, 0.815);
+    font-family: Arial narrow;
+}
+.Quiere{
+    margin-top: -15px;
+    color: rgba(245, 240, 240, 0.815);
+    font-family: Arial narrow;
+}
+.mensaje{
+    margin-top: -8px;
+    color: rgba(245, 240, 240, 0.815);
+    font-family: Arial narrow;
+}
+.nombre{
+    margin-top: -8px;
+    color: rgba(245, 240, 240, 0.815);
+    font-family: Arial narrow;
+}
+.Free{
+    margin-top: 60px;
+    color: grey;
+}
+.consult img{
+    margin-top: -45px;
+    
+}
+.phone1{
+    filter: brightness(2) invert(1) ;
+    width: 30px;
+}
+.consult h1{
+    margin-top: -36px;
+    margin-left: 40px;
+    font-family: Arial;
+}
+.chair{
+    margin-top: -415px;
+    width:34%;
+    height:51vh;
+    margin-left: 70px;
+    
+}
+.legal{
+    margin-left: 55px;
+    color: aliceblue;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.APPOINTMENT {
+    display: flex;
+    width: 200px;
+    height: 45px;
+    background-color: rgba(196, 58, 58, 0.781);
+    margin-left: 120px;
+    box-shadow: inset;
+    border-color: rgb(196, 58, 58);
+}
+.cita{
+        margin: auto;
+        color: aliceblue;
+        font-size: 15px;
+}

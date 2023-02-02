@@ -1,0 +1,230 @@
+.sec{
+        
+    color: rgba(196, 58, 58, 0.781);  
+    text-decoration: none;  
+    margin-left: 8px; 
+    font-family: Arial narrow;
+     
+}
+.sec1{
+    color: grey;
+    text-decoration: none;
+    margin-left: -22px;
+    font-family: Arial narrow;
+}
+.shoot{
+    margin-left: 5px;
+    margin-top: 110px;
+    color: aliceblue;
+    transform: scale(0.8,1.2);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.input0{
+    border: none transparent; 
+    outline: none; 
+    width: 240px;
+    height: 20px;
+    background: transparent;
+    color: grey;
+    margin-left: 63px;
+    margin-top: 30px;
+
+}
+.hr{
+    color: rgba(128, 128, 128, 0.301);
+    margin-left: 65px;
+    width: 240px;
+    margin-top: -10px;
+}
+.input1{
+    border: none transparent; 
+    outline: none; 
+    width: 240px;
+    height: 20px;
+    background: transparent;
+    color: grey;
+    margin-left: 63px;
+    margin-top: 10px;
+}
+.input2{
+    border: none transparent; 
+    outline: none; 
+    width: 530px;
+    height: 20px;
+    background: transparent;
+    color: grey;
+    margin-left: 63px;
+    margin-top: 15px;
+}
+.hr1{
+    color: rgba(128, 128, 128, 0.301);
+    margin-left: 65px;
+    width: 540px;
+    margin-top: -10px;
+}
+.square11{
+    display: flex;
+    width: 185px;
+    height: 50px;
+    background-color: rgba(196, 58, 58, 0.781);
+    margin-left: 63px;
+    margin-top: 35px;
+    box-shadow: 0px 5px 5px rgba(24, 23, 23, 0.877);
+    border-color: rgb(196, 58, 58);
+  }
+.input3{
+    border: none transparent; 
+    outline: none; 
+    width: 240px;
+    height: 20px;
+    background: transparent;
+    color: grey;
+    margin-left: -250px;
+    margin-top: 180px;
+
+}
+.hr2{
+    color: rgba(128, 128, 128, 0.301);
+    margin-left: -250px;
+    width: 240px;
+    margin-top: -10px;
+}
+.input4{
+    border: none transparent; 
+    outline: none; 
+    width: 240px;
+    height: 20px;
+    background: transparent;
+    color: grey;
+    margin-left: -250px;
+    margin-top: 10px;
+}
+.squa {
+    display: flex;
+    width: 390px;
+    height: 505px;
+    background-color: rgba(196, 58, 58, 0.884);
+    margin-left: -30px;
+    margin-top: -25px;
+    box-shadow: none;
+    border-color: transparent;
+    border-width: 1px;
+  }
+  .tex05 {
+    margin-left: 50px;
+    margin-top: 90px;
+    color: rgba(255, 255, 255, 0.527);
+    font-size-adjust: 0.6;
+    font-family: Lucida Sans;
+    font-weight: bold;
+    transform: scale(1, 1.2);
+  }
+  .tex20 {
+    margin-left: -80px;
+    margin-top: 150px;
+    color: rgb(247, 250, 253);
+    font-size: 200%;
+    font-family: Arial;
+    font-weight: 660;
+    transform: scale(1, 1.4);
+    
+  }
+  .runners{
+    margin-left: -284px;
+    margin-top: 220px;
+    color: rgb(247, 250, 253);
+    font-size-adjust: 0.4;
+    font-family: Arial;
+    font-weight: bold;
+    transform: scale(0.7,1.2);
+  }
+  .number{
+    margin-left: -362px;
+    margin-top: 260px;
+    color: rgb(247, 250, 253);
+    font-size-adjust: 0.4;
+    font-family: Arial;
+    font-weight: bold;
+    transform: scale(0.7,1.2);
+  }
+  .follow{
+    margin-left: -160px;
+    margin-top: 385px;
+    color: transparent;
+    -webkit-text-stroke:  1px rgba(255, 255, 255, 0.205);
+    font-size-adjust: 0.4;
+    font-family: Arial;
+    font-weight: bold;
+    transform: scale(1,2);
+    letter-spacing: 0.15em;
+    
+  }
+  .facebook{
+    margin-left: -155px;
+    margin-top: 400px;
+    width: 30px;
+    
+    
+    
+  }
+  .box2{
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    margin-top: 400px;
+    margin-left: -113px;
+    border-width: 0.05px ;
+    border-color: rgba(255, 255, 255, 0.473);
+    
+  }
+  .instagram{
+    margin-top: 4px;
+    width: 17px;
+    fill: none;
+    filter: brightness(0) invert(0.7);
+    
+  }
+  .twitter{
+    margin-left: -70px;
+    margin-top: 400px;
+    width: 30px;
+    
+    
+  }
+  .box1{
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    margin-top: 400px;
+    margin-left: -25px;
+    border-width: 0.05px ;
+    border-color: rgba(255, 255, 255, 0.473);
+    
+  }
+  .linkedin{
+    margin-left: 0px;
+    margin-top: 3px;
+    font-weight: 900;
+    color: white;
+    
+  }
+  .squ {
+    display: flex;
+    width: 390px;
+    height: 505px;
+    background-color: transparent;
+    margin-left: 80px;
+    margin-top: 124px;
+    box-shadow: none;
+    border-color: rgba(128, 128, 128, 0.288);
+    border-width: 3px;
+    border-style: dashed;
+  }
+  .Line15{
+    border-left: 2px solid rgba(128, 128, 128, 0.171);
+    height: 98vh;
+    margin-left: 31px;
+    margin-top: -5px;
+      
+    }
+ 

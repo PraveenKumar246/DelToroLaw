@@ -1,0 +1,227 @@
+.heade img{
+    margin-left: 40px;
+    width: 200px;
+    margin-top: 35px;
+}
+.heade h3 {
+    position: relative;
+    top: -100px;
+    left: 400px;
+    font-weight: 105;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.671);
+  }
+  .heade .maps{
+    margin-top: -23px;
+    width: 410px;
+    height: 385px;
+    transform: scale(1,1.1);
+    filter: grayscale();
+  }
+  .add{
+    margin-left: 400px;
+    margin-top: -400px;
+  }
+  .address{
+    
+    color: rgba(247, 250, 253, 0.87);
+    font-size-adjust: 0.36;
+    font-family: Arial;
+    margin-left: 100px;
+    transform: scale(0.7,1.2);
+  }
+  .location{
+    filter: brightness(2) invert(1) ;
+    width: 30px;
+    margin-top: 10px;
+    margin-left: 140px;
+  }
+  .add h5{
+    color: grey;
+    margin-left: 184px;
+    margin-top: -37px;
+  }
+  .get{
+    color:rgba(196, 58, 58, 0.781);  
+    font-weight: bold;
+    margin-left: 185px;
+    font-family: Arial narrow;
+    transform: scaleX(1.2)
+  }
+  .mail{
+    filter: brightness(2) invert(1) ;
+    width: 30px;
+    margin-top: 420px;
+    margin-left: 140px;
+  }
+  .facebook1{
+    margin-left: 140px;
+    margin-top: 400px;
+    width: 30px;
+  }
+  .box20{
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    margin-left: 182px;
+    margin-top: 366px;
+    border-width: 0.05px ;
+    border-color: rgba(255, 255, 255, 0.473);
+  }
+  .instagram1{
+    width: 17px;
+    fill: none;
+    filter: brightness(0) invert(0.7);
+    
+  }.twitter1{
+    margin-left: 225px;
+    margin-top: 370px;
+    width: 30px;
+  }
+  .box10{
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    margin-top: 367px;
+    margin-left: 265px;
+    border-width: 0.05px ;
+    border-color: rgba(255, 255, 255, 0.473);
+    
+  }
+  .hours{
+    margin-top: -370px;
+    margin-left: -15px;
+    color: rgba(247, 250, 253, 0.87);
+    font-size-adjust: 0.36;
+    font-family: Arial;
+    
+    transform: scale(0.7,1.2);
+  }
+  .mon{
+    color: grey;
+    font-weight: 800;
+    transform: scale(1.1,0.8);
+    margin-left: 26px;
+    margin-top: 10px;
+  }
+  .tue{
+    color: grey;
+    font-weight: 800;
+    transform: scale(1.1,0.8);
+    margin-left: 26px;
+    margin-top: -10px;
+  }
+  .wed{
+    color: grey;
+    font-weight: 800;
+    transform: scale(1.1,0.8);
+    margin-left: 26px;
+    margin-top: -10px;
+  }
+  .thu{
+    color: grey;
+    font-weight: 800;
+    transform: scale(1.1,0.8);
+    margin-left: 26px;
+    margin-top: -10px;
+  }
+  .fri{
+    color: grey;
+    font-weight: 800;
+    transform: scale(1.1,0.8);
+    margin-left: 26px;
+    margin-top: -10px;
+  }
+  .sat{
+    color: grey;
+    font-weight: 800;
+    transform: scale(1.1,0.8);
+    margin-left: 26px;
+    margin-top: -10px;
+  }
+  .s1{
+    color: rgba(196, 58, 58, 0.781);
+    font-weight: 800;
+    transform: scale(1.1,0.8);
+    margin-left: 92px;
+    margin-top: -35px;
+  }
+  .sun{
+    color: grey;
+    font-weight: 800;
+    transform: scale(1.1,0.8);
+    margin-left: 26px;
+    margin-top: -10px;
+  }
+  .su1{
+    color: rgba(196, 58, 58, 0.781);
+    font-weight: 800;
+    transform: scale(1.1,0.8);
+    margin-left: 92px;
+    margin-top: -35px;
+  }
+  .copy{
+    color: grey;
+    font-weight: 800;
+    transform: scale(1.1,0.8);
+    margin-left: 120px;
+    margin-top: 77px;
+  }
+  .quick{
+    margin-top: -370px;
+    margin-left: -250px;
+    color: rgba(247, 250, 253, 0.87);
+    font-size-adjust: 0.36;
+    font-family: Arial;
+    
+    transform: scale(0.7,1.2);
+  }
+  .mon1{
+    color: grey;
+    font-weight: 800;
+    transform: scale(1.1,0.8);
+    margin-left: 10px;
+    margin-top: -5px;
+  }
+  .tue1{
+    color: grey;
+    font-weight: 800;
+    transform: scale(1.1,0.8);
+    margin-left: 10px;
+    margin-top: -5px;
+  }
+  .wed1{
+    color: grey;
+    font-weight: 800;
+    transform: scale(1.1,0.8);
+    margin-left: 10px;
+    margin-top: -5px;
+  }
+  .thu1{
+    color: grey;
+    font-weight: 800;
+    transform: scale(1.1,0.8);
+    margin-left: 10px;
+    margin-top: -5px;
+  }
+  .fri1{
+    color: grey;
+    font-weight: 800;
+    transform: scale(1.1,0.8);
+    margin-left: 10px;
+    margin-top: -5px;
+  }
+  .sat1{
+    color: grey;
+    font-weight: 800;
+    transform: scale(1.1,0.8);
+    margin-left: 10px;
+    margin-top: -5px;
+  }
+  .sun1{
+    color: grey;
+    font-weight: 800;
+    transform: scale(1.1,0.8);
+    margin-left: 10px;
+    margin-top: -5px;
+  }

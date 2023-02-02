@@ -1,0 +1,103 @@
+html {
+  scroll-behavior: smooth;
+}
+.circle{
+  margin-left: -53px;
+  
+  color: rgba(196, 58, 58, 0.781);
+}
+
+.verticalLine{
+      border-left: 4px solid rgba(196, 58, 58, 0.781);
+      height: 110px;
+      margin-left: 30px;
+      margin-top: -15px;
+        
+}
+.Line1{
+  border-left: 2px solid rgba(128, 128, 128, 0.171);
+  height: 82vh;
+  margin-left: 31px;
+  margin-top: -5px;
+    
+}
+.section{
+  color:white;  
+  text-decoration: none; 
+  margin-left: 6px;
+  font-family: Arial narrow;
+  
+     
+}
+.section1{
+  color: grey;
+  text-decoration: none;
+  margin-left: -23px;
+  font-family: Arial narrow;
+
+}
+.header img {
+  float: left;
+  margin-left: -25px;
+
+}
+ 
+.header h3 {
+  position: relative;
+  margin-left: 1050px;
+  top: 18px;
+  left: 10px;
+}
+.header1 img {
+  
+  margin-left: 920px;
+  top: 2px;
+  left: 10px;
+}
+.phone2{
+  filter: brightness(2) invert(1) ;
+  width: 30px;
+}
+.header1 h2 {
+  position: relative;
+  margin-left: 1080px;
+  top: -2px;
+  left: 10px;
+
+}
+.circle{
+  size: 2px;
+}
+
+.welcome{
+  text-align: center;
+  font-family: Ink Free;
+  font-size: 300%;
+  margin-top: -120px;
+  
+}
+.name{
+  text-align: center;
+  font-family: Arial narrow;
+  font-size: 400%;
+  margin-top: -50px;
+  
+}
+.square {
+  display: flex;
+  width: 200px;
+  height: 50px;
+  background-color: rgba(196, 58, 58, 0.781);
+  margin-left: 570px;
+  margin-top: -10px;
+  box-shadow: none;
+  border-color: rgb(196, 58, 58);
+}
+.text {
+  margin: auto;
+  color: rgb(247, 250, 253);
+  font-size: 15px;
+  font-family: Lucida Sans;
+  font-weight: lighter;
+  
+}

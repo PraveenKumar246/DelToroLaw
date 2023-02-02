@@ -1,0 +1,175 @@
+.secti{
+        
+    color:rgba(196, 58, 58, 0.781); 
+    text-decoration: none;  
+    margin-left: 10px; 
+    font-family: Arial narrow;
+     
+}
+.secti1{
+    color: white;
+    text-decoration: none;
+    margin-left: -22px;
+    font-family: Arial narrow;
+}
+.services{
+    margin-top: 100px;
+    margin-left: 65px;
+    color:grey;
+    font-size: 18px;
+    font-family: Lucida Sans;
+    font-weight: lighter;
+}
+.practice{
+    margin-left: -70px;
+    margin-top: -10px;
+    color: rgb(247, 250, 253);
+    font-size: 300%;
+    font-family: Arial;
+    font-weight: 660;
+    transform: scale(.8, 1.3);
+    
+}
+.box{
+  width: 105px;
+  height: 100px;
+  background-color: rgb(26, 24, 24);
+  margin-left: 50px;
+  margin-top: 10px;
+  box-shadow: none;
+  border-color: rgb(54, 51, 51);
+}
+.justice{
+    width: 95px;
+    
+    filter: brightness(0) invert(1);
+    margin-top: -200px;
+    margin-left: 65px;
+    
+}
+.federal{
+    transform: scale(0.99, 2);
+    margin-left: 65px;
+    color: rgb(196, 58, 58)
+    
+}
+.Lorem{
+    margin-left: 5px;
+    margin-top: 38px;
+    color: rgb(253, 251, 247);
+    font-family: Arial;
+    font-weight: 100;
+    transform: scaleX(0.9);
+}
+.commodo{
+    margin-left: 5px;
+    margin-top: -10px;
+    color: rgba(253, 251, 247, 0.938);
+    font-family: Arial;
+    font-weight: 100;
+    transform: scaleX(0.9);
+
+}
+.square2 {
+    display: flex;
+    width: 165px;
+    height: 50px;
+    background-color: rgba(196, 58, 58, 0.781);
+    margin-left:65px;
+    margin-top: 50px;
+    box-shadow: none;
+    border-color: rgb(196, 58, 58);
+  }
+  
+.button {
+    display: flex;
+    width: 260px;
+    height: 40px;
+    background-color: transparent;
+    margin-left: 1012px;
+    margin-top: -44px;
+    box-shadow: none;
+    border-color: rgb(150, 146, 146,0.1) transparent;
+    transform: rotate(270deg);
+}
+.button1 {
+    display: flex;
+    width: 250px;
+    height: 40px;
+    background-color: transparent;
+    margin-left: 977px;
+    margin-top: -40px;
+    box-shadow: none;
+    border-color: rgb(150, 146, 146,0.1) transparent;
+    transform: rotate(270deg);
+}
+.button2 {
+    display: flex;
+    width: 260px;
+    height: 40px;
+    background-color: transparent;
+    margin-left: 932px;
+    margin-top: -40px;
+    box-shadow: none;
+    border-color: rgb(150, 146, 146,0.1) transparent;
+    transform: rotate(270deg);
+}
+.button3 {
+    display: flex;
+    width: 250px;
+    height: 40px;
+    background-color: transparent;
+    margin-left: 900px;
+    margin-top: -40px;
+    box-shadow: none;
+    border-color: rgb(150, 146, 146,0.1) transparent;
+    transform: rotate(270deg);
+}
+.button4 {
+    display: flex;
+    width: 260px;
+    height: 40px;
+    background-color: transparent;
+    margin-left: 855px;
+    margin-top: -40px;
+    box-shadow: none;
+    border-color: rgb(150, 146, 146,0.1) transparent;
+    transform: rotate(270deg);
+}
+.button5 {
+    display: flex;
+    width: 250px;
+    height: 40px;
+    background-color: transparent;
+    margin-left: 820px;
+    margin-top: -37px;
+    box-shadow: none;
+    border-color: rgb(150, 146, 146,0.1) transparent;
+    transform: rotate(270deg);
+}
+.button6 {
+    display: flex;
+    width: 260px;
+    height: 40px;
+    background-color: transparent;
+    margin-left: 775px;
+    margin-top: -42px;
+    box-shadow: none;
+    border-color: rgb(150, 146, 146,0.1) transparent;
+    transform: rotate(270deg);
+}
+.text1{
+    margin: auto;
+    margin-left: 18px;
+    color: rgb(165, 162, 162);
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: lighter;
+}
+.Line13{
+    border-left: 2px solid rgba(128, 128, 128, 0.171);
+    height: 95vh;
+    margin-left: 31px;
+    margin-top: 0px;
+      
+  }

@@ -1,0 +1,102 @@
+.home{
+    display: flex;
+  
+}
+.sectio{
+        
+    color:rgba(196, 58, 58, 0.781);  
+    text-decoration: none;     
+    margin-left: 4px;
+    
+    font-family: Arial narrow;
+}
+.sectio1{
+    color: grey;
+    text-decoration: none;
+    margin-left: -466px;  
+    
+    font-family: Arial narrow;  
+}
+.circle1{
+    margin-left: -490px;
+    
+    
+  }
+.att1{
+    width: 340px;
+    height: 500px;
+    margin-left: -323px;
+    margin-top: 200px;
+}
+.att2{
+    width: 400px;
+    height: 600px;
+    margin-left: -60px;
+    margin-top: 100px;
+    
+}
+.background {
+background: url('../src/Homeimages/5.jpg');
+height: 110vh;
+background-size: cover;
+}
+.team{
+    margin-top: 140px;
+}
+.hr-lines:before{
+    content:" ";
+    
+    height: 2px;
+    width: 110px;
+    position: absolute;
+    top: 50%;
+    left: -120px;
+    background: rgb(226, 81, 81);
+}
+.hr-lines{
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+    margin-left: 20px;
+    margin-top: 80px;
+    color: rgb(226, 81, 81);
+    font-size: 20px;
+    font-family: 'Arial Narrow';
+}
+.lorem{
+    margin-top: -90px;
+    margin-left: 3px;
+    color: grey;
+    transform: scaleX(0.9);
+}
+.elit{
+    margin-left: 3px;
+    margin-top: -10px;
+    color: grey;
+    transform: scaleX(0.9);
+}
+.square1 {
+    display: flex;
+    width: 150px;
+    height: 50px;
+    background-color: rgba(196, 58, 58, 0.781);
+    margin-left: 23px;
+    margin-top: 50px;
+    box-shadow: 0px 5px 5px grey;
+    border-color: rgb(196, 58, 58);
+  }
+  .verticalLine1{
+    border-left: 4px solid rgba(196, 58, 58, 0.781);
+    height: 110px;
+    margin-left: 30px;
+    margin-top: -700px;
+      
+}
+.Line12{
+border-left: 2px solid rgba(128, 128, 128, 0.171);
+height: 92vh;
+margin-left: 31px;
+margin-top: -5px;
+  
+}
+  

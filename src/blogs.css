@@ -1,0 +1,113 @@
+.blogs{
+    margin-top: 55px;
+    margin-left: 82px;
+    color:rgba(128, 128, 128, 0.849);
+    font-size: 16px;
+    font-family: Gadugi;
+    font-weight: lighter;
+}
+.latest{
+    font-size: 300%;
+    font-family: Arial;
+    margin-left: 23px;
+    margin-top: 10px;
+    font-weight: 650;
+    transform: scale(.7, 1.5);
+    color: rgba(0, 0, 0, 0.877);
+}
+.blog1{
+    margin-left: 80px;
+    margin-top: 20px;
+    width: 310px;
+}
+.blog2{
+    margin-left: 25px;
+    margin-top: 198px;
+    width: 310px;
+}
+.square10 {
+    display: flex;
+    width: 185px;
+    height: 50px;
+    background-color: rgba(196, 58, 58, 0.781);
+    margin-left: 140px;
+    margin-top: 90px;
+    box-shadow: none;
+    border-color: rgb(196, 58, 58);
+  }
+.blog3{
+    margin-left: 15px;
+    margin-top: 58px;
+    width: 310px;
+}
+.jan19{
+    transform: scale(0.8,1);
+    margin-top: 30px;
+    margin-left: 39px;
+    color:rgba(128, 128, 128, 0.938);
+    font-size: 16px;
+    font-family: Gadugi;
+    font-weight: lighter;
+}
+.ipsum{
+    color: black;
+    font-size: medium;
+    margin-left: 38px;
+    transform: scale(0.8,1.1);
+}
+.ipsum0{
+    color: grey;
+    font-size: 13.4px;
+    margin-left: 38px;
+    transform: scale(0.8,0.8);
+}
+.jan17{
+    transform: scale(0.8,1);
+    margin-top: 30px;
+    margin-left: -13px;
+    color:rgba(128, 128, 128, 0.938);
+    font-size: 16px;
+    font-family: Gadugi;
+    font-weight: lighter;
+}
+.ipsum1{
+    color: black;
+    font-size: medium;
+    margin-left: -10px;
+    transform: scale(0.8,1.1);
+}
+.ipsum2{
+    color: grey;
+    font-size: 13.4px;
+    margin-left: -10px;
+    transform: scale(0.8,0.8);
+}
+
+.jan15{
+    transform: scale(0.8,1);
+    margin-top: 30px;
+    margin-left: -26px;
+    color:rgba(128, 128, 128, 0.938);
+    font-size: 16px;
+    font-family: Gadugi;
+    font-weight: lighter;
+}
+.ipsum3{
+    color: black;
+    font-size: medium;
+    margin-left: -23px;
+    transform: scale(0.8,1.1);
+}
+.ipsum4{
+    color: grey;
+    font-size: 13.4px;
+    margin-left: -23px;
+    transform: scale(0.8,0.8);
+}
+.Line14{
+    border-left: 2px solid rgba(128, 128, 128, 0.171);
+    height: 85vh;
+    margin-left: 31px;
+    margin-top: -5px;
+      
+    }
