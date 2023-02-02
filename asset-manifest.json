@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/DelToroLaw/static/css/main.23f20761.css",
+    "main.js": "/DelToroLaw/static/js/main.c871895b.js",
+    "static/js/787.c9d9140f.chunk.js": "/DelToroLaw/static/js/787.c9d9140f.chunk.js",
+    "static/media/1.jpg": "/DelToroLaw/static/media/1.5b7695b09b46b4f1252c.jpg",
+    "static/media/6.png": "/DelToroLaw/static/media/6.6e5cb304da586f903707.png",
+    "static/media/5.jpg": "/DelToroLaw/static/media/5.42ef94797493a150d22a.jpg",
+    "static/media/9.jpg": "/DelToroLaw/static/media/9.bb305acc9391fa421fbf.jpg",
+    "static/media/10.jpg": "/DelToroLaw/static/media/10.255ae49272ee2fde8139.jpg",
+    "static/media/4.jpg": "/DelToroLaw/static/media/4.ed1cd0ccdee5f3899a5d.jpg",
+    "static/media/7.png": "/DelToroLaw/static/media/7.ae27f9ade6fff86663c6.png",
+    "static/media/11.jpg": "/DelToroLaw/static/media/11.f3c2de95c6ae62b541da.jpg",
+    "static/media/13.jpg": "/DelToroLaw/static/media/13.db0558193b73f52bcf23.jpg",
+    "static/media/3.jpg": "/DelToroLaw/static/media/3.ba5c54d5a0d67570cd08.jpg",
+    "static/media/12.jpg": "/DelToroLaw/static/media/12.749787599cbf3e301624.jpg",
+    "static/media/maps.jpg": "/DelToroLaw/static/media/maps.01c0b31d650ee1760ec2.jpg",
+    "static/media/white1.jpg": "/DelToroLaw/static/media/white1.59f09905ebe630439bd6.jpg",
+    "static/media/federal cases.svg": "/DelToroLaw/static/media/federal cases.a675b2aecedb73d4e37f3840b0e11dfb.svg",
+    "static/media/instagram1.svg": "/DelToroLaw/static/media/instagram1.90a971a8c8c6a4b79cf89ee5574acb47.svg",
+    "static/media/phone.svg": "/DelToroLaw/static/media/phone.ef78f6dfcb55b580e1897b38044097ad.svg",
+    "static/media/mail.svg": "/DelToroLaw/static/media/mail.1e2a2bbb2fe11f77551616000da05e7c.svg",
+    "static/media/location.svg": "/DelToroLaw/static/media/location.b941fbbc2f23431ff1e9f33e8a748b58.svg",
+    "static/media/twitter.svg": "/DelToroLaw/static/media/twitter.12d4a7170bbe61a607abeba8e31108a8.svg",
+    "static/media/facebook.svg": "/DelToroLaw/static/media/facebook.fc12a282df25f2eee1f617169cfb2463.svg",
+    "index.html": "/DelToroLaw/index.html",
+    "static/media/linkedin.svg": "/DelToroLaw/static/media/linkedin.879df74f790acb4330ef80a26d4e175d.svg",
+    "main.23f20761.css.map": "/DelToroLaw/static/css/main.23f20761.css.map",
+    "main.c871895b.js.map": "/DelToroLaw/static/js/main.c871895b.js.map",
+    "787.c9d9140f.chunk.js.map": "/DelToroLaw/static/js/787.c9d9140f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23f20761.css",
+    "static/js/main.c871895b.js"
+  ]
+}
